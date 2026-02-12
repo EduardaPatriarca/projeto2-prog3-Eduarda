@@ -1,0 +1,1 @@
+Segundo mini projeto da matéria de Programação 3 de Eduarda Patriarca.
